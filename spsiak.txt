@@ -7,6 +7,7 @@
 <<<<<<< HEAD
 7. Ljubica Ćelić REr 24/18
 8. Nemanja Joksimovic REr 9/18
+25.Nemanja Galbinovic Rer 25/18
 =======
 8. Stefan Savic Rer 11/18
 >>>>>>> dbd1342b6252659b59ab3977a62513cbd774d67b
